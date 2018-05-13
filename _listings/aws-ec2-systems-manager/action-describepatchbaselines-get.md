@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API Describe Patch Baselines
   version: 1.0.0
+  description: Lists the patch baselines in your AWS account.
 schemes:
 - http
 produces:
